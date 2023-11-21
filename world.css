@@ -1,0 +1,50 @@
+
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main-header{
+    background-color: darkgray;
+    padding: 15px;
+    margin:0;
+}
+main{
+    text-align: center;
+    padding: 10px;
+}
+.world-img{
+    height: 100px;
+    width: 150x;
+    align-items: center;
+    border-radius: 250px,0px,250px,0px;
+   
+    
+}
+.title-name{
+    text-align: center;
+    padding: 25px;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: brown;
+    
+}
+table{
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid lightblue;
+    padding: 8px;  
+}
